@@ -88,7 +88,3 @@ It is possible to set one css for the day and one for the night.
 			}
 		},
 		
-******************************************************************		
-
-
-Example of the custom.css in custom.css.sample
